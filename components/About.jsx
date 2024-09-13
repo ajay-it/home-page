@@ -27,7 +27,7 @@ export default function About() {
           <div className="text-sm mt-2 lg:mt-0">
             At Imeleo, we use technology to help businesses grow, work smarter,
             and get better results. Our goal is to make it easier for companies
-            to succeed in today's digital world.
+            to succeed in today&apos;s digital world.
           </div>
           <div className="my-4 lg:my-0">
             <ul className="font-semibold">

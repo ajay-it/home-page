@@ -37,8 +37,8 @@ export default function Contact() {
             We help you to grow your business faster & easier.
           </div>
           <div className="text-xs">
-            Partner with us to simplify the path to your success. We'll make
-            reaching your <br /> business goals faster and easier than ever
+            Partner with us to simplify the path to your success. We&apos;ll
+            make reaching your <br /> business goals faster and easier than ever
           </div>
           <div>
             <div>
