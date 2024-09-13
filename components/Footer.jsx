@@ -66,27 +66,27 @@ export default function Footer() {
           <h1 className="font-semibold text-lg">Links</h1>
           <ul className="flex flex-col gap-2 mt-2 text-sm">
             <li>
-              <a href="#" className="block py-2 px-3 hover:text-gray-200">
+              <a href="#" className="hover:text-gray-200">
                 About
               </a>
             </li>
             <li>
-              <a href="#" className="block py-2 px-3 hover:text-gray-200">
+              <a href="#" className="hover:text-gray-200">
                 Services
               </a>
             </li>
             <li>
-              <a href="#" className="block py-2 px-3 hover:text-gray-200">
+              <a href="#" className="hover:text-gray-200">
                 Solutions
               </a>
             </li>
             <li>
-              <a href="#" className="block py-2 px-3 hover:text-gray-200">
+              <a href="#" className="hover:text-gray-200">
                 Why Us
               </a>
             </li>
             <li>
-              <a href="#" className="block py-2 px-3 hover:text-gray-200">
+              <a href="#" className="hover:text-gray-200">
                 Contact Us
               </a>
             </li>
